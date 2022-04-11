@@ -1,0 +1,5002 @@
+{
+ "Repo": [
+  {
+   "Name": "audit",
+   "Version": "3.0.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "audit-libs",
+   "Version": "3.0.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "autoconf",
+   "Version": "2.71-3",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "automake",
+   "Version": "1.16.5-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bash",
+   "Version": "5.1.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bash-devel",
+   "Version": "5.1.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bash-lang",
+   "Version": "5.1.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "binutils",
+   "Version": "2.37-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "binutils-devel",
+   "Version": "2.37-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bison",
+   "Version": "3.7.6-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bzip2",
+   "Version": "1.0.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bzip2-devel",
+   "Version": "1.0.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bzip2-libs",
+   "Version": "1.0.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ca-certificates",
+   "Version": "2.0.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ca-certificates-base",
+   "Version": "2.0.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ca-certificates-shared",
+   "Version": "2.0.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ca-certificates-tools",
+   "Version": "2.0.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "chkconfig",
+   "Version": "1.20-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "coreutils",
+   "Version": "8.32-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "coreutils-lang",
+   "Version": "8.32-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cpio",
+   "Version": "2.13-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cpio-lang",
+   "Version": "2.13-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "createrepo_c",
+   "Version": "0.17.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "curl",
+   "Version": "7.82.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "curl-devel",
+   "Version": "7.82.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "curl-libs",
+   "Version": "7.82.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "debugedit",
+   "Version": "5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "diffutils",
+   "Version": "3.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "dwz",
+   "Version": "0.14-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "e2fsprogs-libs",
+   "Version": "1.46.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-default-yama-scope",
+   "Version": "0.186-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-devel",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-devel-static",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-libelf",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-libelf-devel",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-libelf-devel-static",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-libelf-lang",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "expat",
+   "Version": "2.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "expat-devel",
+   "Version": "2.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "expat-libs",
+   "Version": "2.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "file",
+   "Version": "5.40-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "file-devel",
+   "Version": "5.40-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "file-libs",
+   "Version": "5.40-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "filesystem",
+   "Version": "1.1-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "findutils",
+   "Version": "4.8.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "findutils-lang",
+   "Version": "4.8.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "flex",
+   "Version": "2.6.4-7",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "flex-devel",
+   "Version": "2.6.4-7",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gawk",
+   "Version": "5.1.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gcc",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gcc-c++",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gdbm",
+   "Version": "1.21-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gdbm-devel",
+   "Version": "1.21-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gdbm-lang",
+   "Version": "1.21-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gettext",
+   "Version": "0.21-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glib",
+   "Version": "2.71.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-devel",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-i18n",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-iconv",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-lang",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-nscd",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-tools",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gmp",
+   "Version": "6.2.1-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gmp-devel",
+   "Version": "6.2.1-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gnupg2",
+   "Version": "2.3.3-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gpgme",
+   "Version": "1.16.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "grep",
+   "Version": "3.7-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "grep-lang",
+   "Version": "3.7-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gtk-doc",
+   "Version": "1.33.2-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gzip",
+   "Version": "1.11-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "kernel-headers",
+   "Version": "5.15.26.1-3",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "krb5",
+   "Version": "1.19.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libarchive",
+   "Version": "3.6.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libarchive-devel",
+   "Version": "3.6.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libassuan",
+   "Version": "2.5.5-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libassuan-devel",
+   "Version": "2.5.5-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libcap",
+   "Version": "2.26-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libcap-devel",
+   "Version": "2.26-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libffi",
+   "Version": "3.4.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libffi-devel",
+   "Version": "3.4.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgcc",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgcc-atomic",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgcc-devel",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgcrypt",
+   "Version": "1.9.4-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgomp",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgomp-devel",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgpg-error",
+   "Version": "1.43-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libksba",
+   "Version": "1.6.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libksba-devel",
+   "Version": "1.6.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libltdl",
+   "Version": "2.4.6-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libltdl-devel",
+   "Version": "2.4.6-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libmetalink",
+   "Version": "0.1.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libmpc",
+   "Version": "1.2.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libpipeline",
+   "Version": "1.5.5-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libpipeline-devel",
+   "Version": "1.5.5-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libpkgconf",
+   "Version": "1.8.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libselinux",
+   "Version": "3.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libsepol",
+   "Version": "3.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libsolv",
+   "Version": "0.7.20-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libsolv-devel",
+   "Version": "0.7.20-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libssh2",
+   "Version": "1.9.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libssh2-devel",
+   "Version": "1.9.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libstdc++",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libstdc++-devel",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libtasn1",
+   "Version": "4.18.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libtool",
+   "Version": "2.4.6-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libxml2",
+   "Version": "2.9.13-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libxml2-devel",
+   "Version": "2.9.13-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lua",
+   "Version": "5.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lua-libs",
+   "Version": "5.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "m4",
+   "Version": "1.4.19-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "make",
+   "Version": "4.3-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-check-macros",
+   "Version": "2.0-13",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-release",
+   "Version": "2.0-8",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-preview",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-shared",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-rpm-macros",
+   "Version": "2.0-13",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mpfr",
+   "Version": "4.1.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mpfr-devel",
+   "Version": "4.1.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "msopenjdk-11",
+   "Version": "11.0.14",
+   "Architecture": "aarch64",
+   "Distribution": "1+1_LTS-31207"
+  },
+  {
+   "Name": "ncurses",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ncurses-compat",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ncurses-devel",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ncurses-libs",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ncurses-term",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "newt",
+   "Version": "0.52.21-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "npth",
+   "Version": "1.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "nspr",
+   "Version": "4.30-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "nspr-devel",
+   "Version": "4.30-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl-debuginfo",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl-devel",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl-libs",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl-perl",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl-static",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "p11-kit",
+   "Version": "0.24.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "p11-kit-trust",
+   "Version": "0.24.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "patch",
+   "Version": "2.7.6-7",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pcre",
+   "Version": "8.45-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pcre-libs",
+   "Version": "8.45-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl",
+   "Version": "5.34.1-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-B",
+   "Version": "1.82-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Carp",
+   "Version": "1.52-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Class-Struct",
+   "Version": "0.66-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Data-Dumper",
+   "Version": "2.179-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-DynaLoader",
+   "Version": "1.50-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Encode",
+   "Version": "3.08-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Errno",
+   "Version": "1.33-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Exporter",
+   "Version": "5.76-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Fcntl",
+   "Version": "1.14-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Basename",
+   "Version": "2.85-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Compare",
+   "Version": "1.100.600-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Copy",
+   "Version": "2.35-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Path",
+   "Version": "2.18-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Temp",
+   "Version": "0.231.100-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-stat",
+   "Version": "1.09-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-FileHandle",
+   "Version": "2.03-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Getopt-Long",
+   "Version": "2.52-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Getopt-Std",
+   "Version": "1.13-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-HTTP-Tiny",
+   "Version": "0.076-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-I18N-Langinfo",
+   "Version": "0.19-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-IO",
+   "Version": "1.46-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-IPC-Open3",
+   "Version": "1.21-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-MIME-Base64",
+   "Version": "3.16-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-POSIX",
+   "Version": "1.97-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-PathTools",
+   "Version": "3.80-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Escapes",
+   "Version": "1.07-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Perldoc",
+   "Version": "3.28.01-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Simple",
+   "Version": "3.42-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Usage",
+   "Version": "2.01-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Scalar-List-Utils",
+   "Version": "1.55-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-SelectSaver",
+   "Version": "1.02-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Socket",
+   "Version": "2.031-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Storable",
+   "Version": "3.23-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Symbol",
+   "Version": "1.09-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Term-ANSIColor",
+   "Version": "5.01-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Term-Cap",
+   "Version": "1.17-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Text-ParseWords",
+   "Version": "3.30-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Text-Tabs+Wrap",
+   "Version": "2013.0523-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Thread-Queue",
+   "Version": "3.14-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Time-Local",
+   "Version": "1.300-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Unicode-Normalize",
+   "Version": "1.28-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-base",
+   "Version": "2.27-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-constant",
+   "Version": "1.33-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-if",
+   "Version": "0.60.900-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-interpreter",
+   "Version": "5.34.1-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-libs",
+   "Version": "5.34.1-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-locale",
+   "Version": "1.10-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-macros",
+   "Version": "5.34.1-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-mro",
+   "Version": "1.25-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-overload",
+   "Version": "1.33-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-overloading",
+   "Version": "0.02-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-parent",
+   "Version": "0.238-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-podlators",
+   "Version": "4.14-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-subs",
+   "Version": "1.04-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-threads",
+   "Version": "2.26-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-threads-shared",
+   "Version": "1.62-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-vars",
+   "Version": "1.05-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pinentry",
+   "Version": "1.2.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pkgconf",
+   "Version": "1.8.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pkgconf-m4",
+   "Version": "1.8.0-2",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pkgconf-pkg-config",
+   "Version": "1.8.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "popt",
+   "Version": "1.18-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "popt-devel",
+   "Version": "1.18-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "popt-lang",
+   "Version": "1.18-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "procps-ng",
+   "Version": "3.3.17-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "procps-ng-devel",
+   "Version": "3.3.17-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "procps-ng-lang",
+   "Version": "3.3.17-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pyproject-rpm-macros",
+   "Version": "1.0.0~rc1-2",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3",
+   "Version": "3.9.10-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-devel",
+   "Version": "3.9.10-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-libs",
+   "Version": "3.9.10-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-setuptools",
+   "Version": "3.9.10-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "readline",
+   "Version": "8.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "readline-devel",
+   "Version": "8.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-build",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-build-libs",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-devel",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-lang",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-libs",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sed",
+   "Version": "4.8-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sed-lang",
+   "Version": "4.8-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "slang",
+   "Version": "2.3.2-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sqlite",
+   "Version": "3.36.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sqlite-devel",
+   "Version": "3.36.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sqlite-libs",
+   "Version": "3.36.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tar",
+   "Version": "1.34-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf-cli-libs",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf-devel",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf-plugin-repogpgcheck",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "texinfo",
+   "Version": "6.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "unzip",
+   "Version": "6.0-19",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "util-linux",
+   "Version": "2.37.2-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "util-linux-devel",
+   "Version": "2.37.2-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "which",
+   "Version": "2.21-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "xz",
+   "Version": "5.2.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "xz-devel",
+   "Version": "5.2.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "xz-lang",
+   "Version": "5.2.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "xz-libs",
+   "Version": "5.2.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zlib",
+   "Version": "1.2.11-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zlib-devel",
+   "Version": "1.2.11-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zstd",
+   "Version": "1.5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zstd-devel",
+   "Version": "1.5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zstd-libs",
+   "Version": "1.5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "Cython-debuginfo",
+   "Version": "0.29.26-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "asciidoc",
+   "Version": "9.1.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "audit",
+   "Version": "3.0.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "audit-debuginfo",
+   "Version": "3.0.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "audit-devel",
+   "Version": "3.0.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "audit-libs",
+   "Version": "3.0.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "autoconf",
+   "Version": "2.71-3",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "automake",
+   "Version": "1.16.5-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bash",
+   "Version": "5.1.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bash-debuginfo",
+   "Version": "5.1.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bash-devel",
+   "Version": "5.1.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bash-lang",
+   "Version": "5.1.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "binutils",
+   "Version": "2.37-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "binutils-debuginfo",
+   "Version": "2.37-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "binutils-devel",
+   "Version": "2.37-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bison",
+   "Version": "3.7.6-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bison-debuginfo",
+   "Version": "3.7.6-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bzip2",
+   "Version": "1.0.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bzip2-debuginfo",
+   "Version": "1.0.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bzip2-devel",
+   "Version": "1.0.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "bzip2-libs",
+   "Version": "1.0.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ca-certificates",
+   "Version": "2.0.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ca-certificates-base",
+   "Version": "2.0.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ca-certificates-legacy",
+   "Version": "2.0.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ca-certificates-shared",
+   "Version": "2.0.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ca-certificates-tools",
+   "Version": "2.0.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "check",
+   "Version": "0.15.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "check-debuginfo",
+   "Version": "0.15.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "chkconfig",
+   "Version": "1.20-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "chkconfig-debuginfo",
+   "Version": "1.20-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cmake",
+   "Version": "3.21.4-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cmake-debuginfo",
+   "Version": "3.21.4-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "coreutils",
+   "Version": "8.32-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "coreutils-debuginfo",
+   "Version": "8.32-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "coreutils-lang",
+   "Version": "8.32-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cpio",
+   "Version": "2.13-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cpio-debuginfo",
+   "Version": "2.13-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cpio-lang",
+   "Version": "2.13-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cracklib",
+   "Version": "2.9.7-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cracklib-debuginfo",
+   "Version": "2.9.7-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cracklib-devel",
+   "Version": "2.9.7-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cracklib-dicts",
+   "Version": "2.9.7-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "cracklib-lang",
+   "Version": "2.9.7-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "createrepo_c",
+   "Version": "0.17.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "createrepo_c-debuginfo",
+   "Version": "0.17.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "createrepo_c-devel",
+   "Version": "0.17.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "curl",
+   "Version": "7.82.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "curl-debuginfo",
+   "Version": "7.82.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "curl-devel",
+   "Version": "7.82.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "curl-libs",
+   "Version": "7.82.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "debugedit",
+   "Version": "5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "debugedit-debuginfo",
+   "Version": "5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "diffutils",
+   "Version": "3.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "diffutils-debuginfo",
+   "Version": "3.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "docbook-dtd-xml",
+   "Version": "4.5-11",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "docbook-style-xsl",
+   "Version": "1.79.1-13",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "dwz",
+   "Version": "0.14-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "dwz-debuginfo",
+   "Version": "0.14-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "e2fsprogs",
+   "Version": "1.46.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "e2fsprogs-debuginfo",
+   "Version": "1.46.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "e2fsprogs-devel",
+   "Version": "1.46.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "e2fsprogs-lang",
+   "Version": "1.46.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "e2fsprogs-libs",
+   "Version": "1.46.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-debuginfo",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-default-yama-scope",
+   "Version": "0.186-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-devel",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-devel-static",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-libelf",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-libelf-devel",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-libelf-devel-static",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "elfutils-libelf-lang",
+   "Version": "0.186-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "expat",
+   "Version": "2.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "expat-debuginfo",
+   "Version": "2.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "expat-devel",
+   "Version": "2.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "expat-libs",
+   "Version": "2.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "file",
+   "Version": "5.40-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "file-debuginfo",
+   "Version": "5.40-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "file-devel",
+   "Version": "5.40-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "file-libs",
+   "Version": "5.40-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "filesystem",
+   "Version": "1.1-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "findutils",
+   "Version": "4.8.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "findutils-debuginfo",
+   "Version": "4.8.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "findutils-lang",
+   "Version": "4.8.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "flex",
+   "Version": "2.6.4-7",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "flex-debuginfo",
+   "Version": "2.6.4-7",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "flex-devel",
+   "Version": "2.6.4-7",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gawk",
+   "Version": "5.1.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gawk-debuginfo",
+   "Version": "5.1.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gcc",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gcc-c++",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gcc-debuginfo",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gdbm",
+   "Version": "1.21-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gdbm-debuginfo",
+   "Version": "1.21-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gdbm-devel",
+   "Version": "1.21-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gdbm-lang",
+   "Version": "1.21-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gettext",
+   "Version": "0.21-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gettext-debuginfo",
+   "Version": "0.21-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gfortran",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glib",
+   "Version": "2.71.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glib-debuginfo",
+   "Version": "2.71.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glib-devel",
+   "Version": "2.71.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glib-doc",
+   "Version": "2.71.0-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glib-schemas",
+   "Version": "2.71.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-devel",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-i18n",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-iconv",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-lang",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-nscd",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "glibc-tools",
+   "Version": "2.34-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gmock",
+   "Version": "1.11.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gmock-devel",
+   "Version": "1.11.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gmp",
+   "Version": "6.2.1-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gmp-debuginfo",
+   "Version": "6.2.1-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gmp-devel",
+   "Version": "6.2.1-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gnupg2",
+   "Version": "2.3.3-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gnupg2-debuginfo",
+   "Version": "2.3.3-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gperf",
+   "Version": "3.1-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gperf-debuginfo",
+   "Version": "3.1-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gpgme",
+   "Version": "1.16.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gpgme-debuginfo",
+   "Version": "1.16.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gpgme-devel",
+   "Version": "1.16.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "grep",
+   "Version": "3.7-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "grep-debuginfo",
+   "Version": "3.7-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "grep-lang",
+   "Version": "3.7-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gtest",
+   "Version": "1.11.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gtest-debuginfo",
+   "Version": "1.11.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gtest-devel",
+   "Version": "1.11.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gtk-doc",
+   "Version": "1.33.2-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gzip",
+   "Version": "1.11-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "gzip-debuginfo",
+   "Version": "1.11-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "intltool",
+   "Version": "0.51.0-7",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "itstool",
+   "Version": "2.0.6-4",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "kbd",
+   "Version": "2.2.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "kbd-debuginfo",
+   "Version": "2.2.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "kernel-headers",
+   "Version": "5.15.26.1-3",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "kmod",
+   "Version": "29-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "kmod-debuginfo",
+   "Version": "29-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "kmod-devel",
+   "Version": "29-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "krb5",
+   "Version": "1.19.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "krb5-debuginfo",
+   "Version": "1.19.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "krb5-devel",
+   "Version": "1.19.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "krb5-lang",
+   "Version": "1.19.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libarchive",
+   "Version": "3.6.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libarchive-debuginfo",
+   "Version": "3.6.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libarchive-devel",
+   "Version": "3.6.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libassuan",
+   "Version": "2.5.5-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libassuan-debuginfo",
+   "Version": "2.5.5-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libassuan-devel",
+   "Version": "2.5.5-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libcap",
+   "Version": "2.26-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libcap-debuginfo",
+   "Version": "2.26-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libcap-devel",
+   "Version": "2.26-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libffi",
+   "Version": "3.4.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libffi-debuginfo",
+   "Version": "3.4.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libffi-devel",
+   "Version": "3.4.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgcc",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgcc-atomic",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgcc-devel",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgcrypt",
+   "Version": "1.9.4-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgcrypt-debuginfo",
+   "Version": "1.9.4-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgcrypt-devel",
+   "Version": "1.9.4-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgomp",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgomp-devel",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgpg-error",
+   "Version": "1.43-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgpg-error-debuginfo",
+   "Version": "1.43-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgpg-error-devel",
+   "Version": "1.43-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libgpg-error-lang",
+   "Version": "1.43-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libksba",
+   "Version": "1.6.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libksba-debuginfo",
+   "Version": "1.6.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libksba-devel",
+   "Version": "1.6.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libltdl",
+   "Version": "2.4.6-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libltdl-devel",
+   "Version": "2.4.6-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libmetalink",
+   "Version": "0.1.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libmetalink-debuginfo",
+   "Version": "0.1.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libmetalink-devel",
+   "Version": "0.1.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libmpc",
+   "Version": "1.2.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libmpc-debuginfo",
+   "Version": "1.2.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libpipeline",
+   "Version": "1.5.5-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libpipeline-debuginfo",
+   "Version": "1.5.5-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libpipeline-devel",
+   "Version": "1.5.5-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libpkgconf",
+   "Version": "1.8.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libpkgconf-devel",
+   "Version": "1.8.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libselinux",
+   "Version": "3.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libselinux-debuginfo",
+   "Version": "3.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libselinux-devel",
+   "Version": "3.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libselinux-python3",
+   "Version": "3.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libselinux-utils",
+   "Version": "3.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libsepol",
+   "Version": "3.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libsepol-debuginfo",
+   "Version": "3.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libsepol-devel",
+   "Version": "3.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libsolv",
+   "Version": "0.7.20-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libsolv-debuginfo",
+   "Version": "0.7.20-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libsolv-devel",
+   "Version": "0.7.20-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libsolv-tools",
+   "Version": "0.7.20-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libssh2",
+   "Version": "1.9.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libssh2-debuginfo",
+   "Version": "1.9.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libssh2-devel",
+   "Version": "1.9.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libstdc++",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libstdc++-devel",
+   "Version": "11.2.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libtasn1",
+   "Version": "4.18.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libtasn1-debuginfo",
+   "Version": "4.18.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libtasn1-devel",
+   "Version": "4.18.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libtool",
+   "Version": "2.4.6-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libtool-debuginfo",
+   "Version": "2.4.6-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libxml2",
+   "Version": "2.9.13-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libxml2-debuginfo",
+   "Version": "2.9.13-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libxml2-devel",
+   "Version": "2.9.13-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libxslt",
+   "Version": "1.1.34-6",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libxslt-debuginfo",
+   "Version": "1.1.34-6",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "libxslt-devel",
+   "Version": "1.1.34-6",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lua",
+   "Version": "5.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lua-debuginfo",
+   "Version": "5.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lua-devel",
+   "Version": "5.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lua-libs",
+   "Version": "5.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lua-rpm-macros",
+   "Version": "1-6",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lua-srpm-macros",
+   "Version": "1-6",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lua-static",
+   "Version": "5.4.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lz4",
+   "Version": "1.9.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lz4-debuginfo",
+   "Version": "1.9.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "lz4-devel",
+   "Version": "1.9.3-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "m4",
+   "Version": "1.4.19-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "m4-debuginfo",
+   "Version": "1.4.19-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "make",
+   "Version": "4.3-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "make-debuginfo",
+   "Version": "4.3-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-check-macros",
+   "Version": "2.0-13",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-release",
+   "Version": "2.0-8",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-debug",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-debug-preview",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-extended",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-extended-preview",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-extras",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-extras-preview",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-microsoft",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-microsoft-preview",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-preview",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-repos-shared",
+   "Version": "2.0-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mariner-rpm-macros",
+   "Version": "2.0-13",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "meson",
+   "Version": "0.60.2-2",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mpfr",
+   "Version": "4.1.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mpfr-debuginfo",
+   "Version": "4.1.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "mpfr-devel",
+   "Version": "4.1.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "msopenjdk-11",
+   "Version": "11.0.14",
+   "Architecture": "aarch64",
+   "Distribution": "1+1_LTS-31207"
+  },
+  {
+   "Name": "ncurses",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ncurses-compat",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ncurses-debuginfo",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ncurses-devel",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ncurses-libs",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ncurses-term",
+   "Version": "6.2-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "newt",
+   "Version": "0.52.21-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "newt-debuginfo",
+   "Version": "0.52.21-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "newt-devel",
+   "Version": "0.52.21-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ninja-build",
+   "Version": "1.10.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ninja-build-debuginfo",
+   "Version": "1.10.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "npth",
+   "Version": "1.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "npth-debuginfo",
+   "Version": "1.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "npth-devel",
+   "Version": "1.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "nspr",
+   "Version": "4.30-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "nspr-debuginfo",
+   "Version": "4.30-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "nspr-devel",
+   "Version": "4.30-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "ntsysv",
+   "Version": "1.20-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl-debuginfo",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl-devel",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl-libs",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl-perl",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "openssl-static",
+   "Version": "1.1.1k-13",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "p11-kit",
+   "Version": "0.24.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "p11-kit-debuginfo",
+   "Version": "0.24.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "p11-kit-devel",
+   "Version": "0.24.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "p11-kit-server",
+   "Version": "0.24.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "p11-kit-trust",
+   "Version": "0.24.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pam",
+   "Version": "1.5.1-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pam-debuginfo",
+   "Version": "1.5.1-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pam-devel",
+   "Version": "1.5.1-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pam-lang",
+   "Version": "1.5.1-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "patch",
+   "Version": "2.7.6-7",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "patch-debuginfo",
+   "Version": "2.7.6-7",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pcre",
+   "Version": "8.45-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pcre-debuginfo",
+   "Version": "8.45-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pcre-devel",
+   "Version": "8.45-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pcre-libs",
+   "Version": "8.45-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl",
+   "Version": "5.34.1-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Archive-Tar",
+   "Version": "2.38-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Attribute-Handlers",
+   "Version": "1.01-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-AutoLoader",
+   "Version": "5.74-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-AutoSplit",
+   "Version": "5.74-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-B",
+   "Version": "1.82-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Benchmark",
+   "Version": "1.23-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-CPAN",
+   "Version": "2.28-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-CPAN-Meta",
+   "Version": "2.150010-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-CPAN-Meta-Requirements",
+   "Version": "2.140-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-CPAN-Meta-YAML",
+   "Version": "0.018-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Carp",
+   "Version": "1.52-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Class-Struct",
+   "Version": "0.66-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Compress-Raw-Bzip2",
+   "Version": "2.101-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Compress-Raw-Zlib",
+   "Version": "2.101-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Config-Extensions",
+   "Version": "0.03-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Config-Perl-V",
+   "Version": "0.33-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-DBD-SQLite",
+   "Version": "1.62-6",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-DBD-SQLite-debuginfo",
+   "Version": "1.62-6",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-DBI",
+   "Version": "1.641-6",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-DBI-debuginfo",
+   "Version": "1.641-6",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-DBIx-Simple",
+   "Version": "1.37-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-DBM_Filter",
+   "Version": "0.06-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Data-Dumper",
+   "Version": "2.179-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Devel-PPPort",
+   "Version": "3.62-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Devel-Peek",
+   "Version": "1.30-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Devel-SelfStubber",
+   "Version": "1.06-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Digest",
+   "Version": "1.19-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Digest-MD5",
+   "Version": "2.58-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Digest-SHA",
+   "Version": "6.02-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-DirHandle",
+   "Version": "1.05-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Dumpvalue",
+   "Version": "2.27-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-DynaLoader",
+   "Version": "1.50-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Encode",
+   "Version": "3.08-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Encode-devel",
+   "Version": "3.08-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-English",
+   "Version": "1.11-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Env",
+   "Version": "1.05-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Errno",
+   "Version": "1.33-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Exporter",
+   "Version": "5.76-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ExtUtils-CBuilder",
+   "Version": "0.280236-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ExtUtils-Command",
+   "Version": "7.62-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ExtUtils-Constant",
+   "Version": "0.25-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ExtUtils-Embed",
+   "Version": "1.35-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ExtUtils-Install",
+   "Version": "2.20-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ExtUtils-MM-Utils",
+   "Version": "7.44-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ExtUtils-MakeMaker",
+   "Version": "7.62-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ExtUtils-Manifest",
+   "Version": "1.73-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ExtUtils-Miniperl",
+   "Version": "1.10-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ExtUtils-ParseXS",
+   "Version": "3.43-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Fcntl",
+   "Version": "1.14-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Fedora-VSP",
+   "Version": "0.001-18",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Basename",
+   "Version": "2.85-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Compare",
+   "Version": "1.100.600-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Copy",
+   "Version": "2.35-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-DosGlob",
+   "Version": "1.12-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Fetch",
+   "Version": "1.00-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Find",
+   "Version": "1.39-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Path",
+   "Version": "2.18-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-Temp",
+   "Version": "0.231.100-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-File-stat",
+   "Version": "1.09-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-FileCache",
+   "Version": "1.10-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-FileHandle",
+   "Version": "2.03-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Filter",
+   "Version": "1.59-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Filter-Simple",
+   "Version": "0.96-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-FindBin",
+   "Version": "1.52-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-GDBM_File",
+   "Version": "1.19-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Getopt-Long",
+   "Version": "2.52-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Getopt-Std",
+   "Version": "1.13-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-HTTP-Tiny",
+   "Version": "0.076-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Hash-Util",
+   "Version": "0.25-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Hash-Util-FieldHash",
+   "Version": "1.21-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-I18N-Collate",
+   "Version": "1.02-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-I18N-LangTags",
+   "Version": "0.45-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-I18N-Langinfo",
+   "Version": "0.19-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-IO",
+   "Version": "1.46-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-IO-Compress",
+   "Version": "2.102-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-IO-Socket-IP",
+   "Version": "0.41-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-IO-Zlib",
+   "Version": "1.11-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-IPC-Cmd",
+   "Version": "1.04-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-IPC-Open3",
+   "Version": "1.21-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-IPC-SysV",
+   "Version": "2.09-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-JSON-PP",
+   "Version": "4.06-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Locale-Maketext",
+   "Version": "1.29-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Locale-Maketext-Simple",
+   "Version": "0.21-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-MIME-Base64",
+   "Version": "3.16-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Math-BigInt",
+   "Version": "1.9998.18-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Math-BigInt-FastCalc",
+   "Version": "0.500.900-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Math-BigRat",
+   "Version": "0.2614-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Math-Complex",
+   "Version": "1.59-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Memoize",
+   "Version": "1.03-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Module-CoreList",
+   "Version": "5.20220313-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Module-CoreList-tools",
+   "Version": "5.20220313-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Module-Load",
+   "Version": "0.36-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Module-Load-Conditional",
+   "Version": "0.74-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Module-Loaded",
+   "Version": "0.08-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Module-Metadata",
+   "Version": "1.000037-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-NDBM_File",
+   "Version": "1.15-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-NEXT",
+   "Version": "0.68-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Net",
+   "Version": "1.02-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Net-Ping",
+   "Version": "2.74-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ODBM_File",
+   "Version": "1.17-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Object-Accessor",
+   "Version": "0.48-8",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Opcode",
+   "Version": "1.50-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-POSIX",
+   "Version": "1.97-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Params-Check",
+   "Version": "0.38-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-PathTools",
+   "Version": "3.80-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Perl-OSType",
+   "Version": "1.010-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-PerlIO-via-QuotedPrint",
+   "Version": "0.09-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Checker",
+   "Version": "1.74-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Escapes",
+   "Version": "1.07-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Functions",
+   "Version": "1.13-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Html",
+   "Version": "1.27-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Perldoc",
+   "Version": "3.28.01-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Simple",
+   "Version": "3.42-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Pod-Usage",
+   "Version": "2.01-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Safe",
+   "Version": "2.43-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Scalar-List-Utils",
+   "Version": "1.55-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Search-Dict",
+   "Version": "1.07-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-SelectSaver",
+   "Version": "1.02-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-SelfLoader",
+   "Version": "1.26-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Socket",
+   "Version": "2.031-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Storable",
+   "Version": "3.23-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Symbol",
+   "Version": "1.09-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Sys-Hostname",
+   "Version": "1.23-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Sys-Syslog",
+   "Version": "0.36-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Term-ANSIColor",
+   "Version": "5.01-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Term-Cap",
+   "Version": "1.17-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Term-Complete",
+   "Version": "1.403-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Term-ReadLine",
+   "Version": "1.17-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Test",
+   "Version": "1.31-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Test-Harness",
+   "Version": "3.43-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Test-Simple",
+   "Version": "1.302183-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Test-Warnings",
+   "Version": "0.028-5",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Text-Abbrev",
+   "Version": "1.02-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Text-Balanced",
+   "Version": "2.04-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Text-ParseWords",
+   "Version": "3.30-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Text-Tabs+Wrap",
+   "Version": "2013.0523-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Text-Template",
+   "Version": "1.51-4",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Thread",
+   "Version": "3.05-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Thread-Queue",
+   "Version": "3.14-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Thread-Semaphore",
+   "Version": "2.13-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Tie",
+   "Version": "4.6-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Tie-File",
+   "Version": "1.06-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Tie-Memoize",
+   "Version": "1.1-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Tie-RefHash",
+   "Version": "1.40-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Time",
+   "Version": "1.03-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Time-HiRes",
+   "Version": "1.9767-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Time-Local",
+   "Version": "1.300-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Time-Piece",
+   "Version": "1.3401-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Unicode-Collate",
+   "Version": "1.29-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Unicode-Normalize",
+   "Version": "1.28-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-Unicode-UCD",
+   "Version": "0.75-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-User-pwent",
+   "Version": "1.03-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-XML-Parser",
+   "Version": "2.46-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-XML-Parser-debuginfo",
+   "Version": "2.46-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-autodie",
+   "Version": "2.34-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-autouse",
+   "Version": "1.11-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-base",
+   "Version": "2.27-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-bignum",
+   "Version": "0.51-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-blib",
+   "Version": "1.07-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-constant",
+   "Version": "1.33-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-debugger",
+   "Version": "1.60-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-debuginfo",
+   "Version": "5.34.1-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-deprecate",
+   "Version": "0.04-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-devel",
+   "Version": "5.34.1-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-diagnostics",
+   "Version": "1.37-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-doc",
+   "Version": "5.34.1-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-encoding",
+   "Version": "3.00-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-encoding-warnings",
+   "Version": "0.13-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-experimental",
+   "Version": "0.024-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-fields",
+   "Version": "2.27-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-filetest",
+   "Version": "1.03-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-generators",
+   "Version": "1.11-8",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-if",
+   "Version": "0.60.900-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-interpreter",
+   "Version": "5.34.1-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-less",
+   "Version": "0.03-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-lib",
+   "Version": "0.65-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-libintl-perl",
+   "Version": "1.29-6",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-libintl-perl-debuginfo",
+   "Version": "1.29-6",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-libnet",
+   "Version": "3.13-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-libnetcfg",
+   "Version": "5.34.1-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-libs",
+   "Version": "5.34.1-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-locale",
+   "Version": "1.10-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-macros",
+   "Version": "5.34.1-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-meta-notation",
+   "Version": "5.34.1-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-mro",
+   "Version": "1.25-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-open",
+   "Version": "1.12-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-overload",
+   "Version": "1.33-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-overloading",
+   "Version": "0.02-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-parent",
+   "Version": "0.238-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-perlfaq",
+   "Version": "5.20210411-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-ph",
+   "Version": "5.34.1-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-podlators",
+   "Version": "4.14-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-sigtrap",
+   "Version": "1.09-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-sort",
+   "Version": "2.04-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-subs",
+   "Version": "1.04-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-tests",
+   "Version": "5.34.1-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-threads",
+   "Version": "2.26-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-threads-shared",
+   "Version": "1.62-487",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-utils",
+   "Version": "5.34.1-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-vars",
+   "Version": "1.05-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-version",
+   "Version": "0.99.28-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "perl-vmsish",
+   "Version": "1.04-487",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pinentry",
+   "Version": "1.2.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pinentry-debuginfo",
+   "Version": "1.2.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pkgconf",
+   "Version": "1.8.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pkgconf-debuginfo",
+   "Version": "1.8.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pkgconf-m4",
+   "Version": "1.8.0-2",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pkgconf-pkg-config",
+   "Version": "1.8.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "popt",
+   "Version": "1.18-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "popt-debuginfo",
+   "Version": "1.18-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "popt-devel",
+   "Version": "1.18-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "popt-lang",
+   "Version": "1.18-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "procps-ng",
+   "Version": "3.3.17-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "procps-ng-debuginfo",
+   "Version": "3.3.17-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "procps-ng-devel",
+   "Version": "3.3.17-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "procps-ng-lang",
+   "Version": "3.3.17-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "pyproject-rpm-macros",
+   "Version": "1.0.0~rc1-2",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python-markupsafe-debuginfo",
+   "Version": "2.1.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3",
+   "Version": "3.9.10-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-Cython",
+   "Version": "0.29.26-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-audit",
+   "Version": "3.0.6-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-cracklib",
+   "Version": "2.9.7-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-curses",
+   "Version": "3.9.10-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-debuginfo",
+   "Version": "3.9.10-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-devel",
+   "Version": "3.9.10-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-gpg",
+   "Version": "1.16.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-jinja2",
+   "Version": "3.0.3-2",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-libs",
+   "Version": "3.9.10-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-libxml2",
+   "Version": "2.9.13-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-lxml",
+   "Version": "4.2.4-10",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-magic",
+   "Version": "5.40-2",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-markupsafe",
+   "Version": "2.1.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-newt",
+   "Version": "0.52.21-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-pip",
+   "Version": "3.9.10-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-pygments",
+   "Version": "2.4.2-7",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-rpm",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-setuptools",
+   "Version": "3.9.10-1",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-test",
+   "Version": "3.9.10-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "python3-tools",
+   "Version": "3.9.10-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "readline",
+   "Version": "8.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "readline-debuginfo",
+   "Version": "8.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "readline-devel",
+   "Version": "8.1-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-build",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-build-libs",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-debuginfo",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-devel",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-lang",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "rpm-libs",
+   "Version": "4.17.0-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sed",
+   "Version": "4.8-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sed-debuginfo",
+   "Version": "4.8-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sed-lang",
+   "Version": "4.8-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "slang",
+   "Version": "2.3.2-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "slang-debuginfo",
+   "Version": "2.3.2-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "slang-devel",
+   "Version": "2.3.2-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sqlite",
+   "Version": "3.36.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sqlite-debuginfo",
+   "Version": "3.36.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sqlite-devel",
+   "Version": "3.36.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "sqlite-libs",
+   "Version": "3.36.0-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "swig",
+   "Version": "4.0.2-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "swig-debuginfo",
+   "Version": "4.0.2-3",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "systemd-bootstrap",
+   "Version": "250.3-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "systemd-bootstrap-debuginfo",
+   "Version": "250.3-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "systemd-bootstrap-devel",
+   "Version": "250.3-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "systemd-bootstrap-rpm-macros",
+   "Version": "250.3-2",
+   "Architecture": "noarch",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tar",
+   "Version": "1.34-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tar-debuginfo",
+   "Version": "1.34-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf-autoupdate",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf-cli-libs",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf-debuginfo",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf-devel",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf-plugin-repogpgcheck",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "tdnf-python",
+   "Version": "3.2.2-2",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "texinfo",
+   "Version": "6.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "texinfo-debuginfo",
+   "Version": "6.8-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "unzip",
+   "Version": "6.0-19",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "unzip-debuginfo",
+   "Version": "6.0-19",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "util-linux",
+   "Version": "2.37.2-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "util-linux-debuginfo",
+   "Version": "2.37.2-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "util-linux-devel",
+   "Version": "2.37.2-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "util-linux-lang",
+   "Version": "2.37.2-4",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "wget",
+   "Version": "1.21.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "wget-debuginfo",
+   "Version": "1.21.2-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "which",
+   "Version": "2.21-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "which-debuginfo",
+   "Version": "2.21-8",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "xz",
+   "Version": "5.2.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "xz-debuginfo",
+   "Version": "5.2.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "xz-devel",
+   "Version": "5.2.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "xz-lang",
+   "Version": "5.2.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "xz-libs",
+   "Version": "5.2.5-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zip",
+   "Version": "3.0-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zip-debuginfo",
+   "Version": "3.0-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zlib",
+   "Version": "1.2.11-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zlib-debuginfo",
+   "Version": "1.2.11-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zlib-devel",
+   "Version": "1.2.11-5",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zstd",
+   "Version": "1.5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zstd-debuginfo",
+   "Version": "1.5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zstd-devel",
+   "Version": "1.5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zstd-doc",
+   "Version": "1.5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  },
+  {
+   "Name": "zstd-libs",
+   "Version": "1.5.0-1",
+   "Architecture": "aarch64",
+   "Distribution": "cm2"
+  }
+ ]
+}
