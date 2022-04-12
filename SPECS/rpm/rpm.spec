@@ -1,7 +1,7 @@
 Summary:        Package manager
 Name:           rpm
 Version:        4.17.0
-Release:        3%{?dist}
+Release:        4%{?dist}
 License:        GPLv2+ AND LGPLv2+ AND BSD
 Vendor:         Microsoft Corporation
 Distribution:   Mariner
@@ -75,9 +75,12 @@ Requires:       %{name}-build-libs
 Requires:       %{name}-devel = %{version}-%{release}
 Requires:       bzip2
 Requires:       cpio
+Requires:       diffutils
 Requires:       elfutils-devel
 Requires:       elfutils-libelf
+Requires:       file
 Requires:       gzip
+Requires:       patch
 Requires:       tar
 Requires:       unzip
 Requires:       xz
@@ -269,6 +272,9 @@ popd
 %{python3_sitelib}/*
 
 %changelog
+* Tue Apr 12 2022 Andy Caldwell <andycaldwell@microsoft.com> - 4.17.0-4
+- Add missing dependencies to rpmbuild (file, diff and patch)
+
 * Tue Feb 08 2022 Thomas Crain <thcrain@microsoft.com> - 4.17.0-3
 - Remove manual pkgconfig(*) provides in toolchain specs
 
